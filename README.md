@@ -5,7 +5,7 @@ A novel approach to **Federated Learning (FL)** that introduces a **hierarchical
 ## 🚀 Key Features  
 - **Hierarchical Coordination:** A multi-layered approach to federated aggregation, reducing the reliance on a central server.  
 - **Decentralized Communication:** Nodes can collaborate efficiently using a peer-to-peer structure, enhancing system robustness.  
-- **Game-Theoretic Optimization:** Inspired by cooperative game theory, ensuring fair and efficient model updates.  
+- **Heterogeneous Cluster Representation:** Clusters are dynamically formed to ensure diverse data distributions, improving model generalization. 
 - **Improved Time Complexity:** Optimized aggregation strategies to reduce training time in large-scale deployments.  
 - **Resilience to Failures:** Eliminates the risk of a single point of failure while maintaining performance.  
 
@@ -13,5 +13,5 @@ A novel approach to **Federated Learning (FL)** that introduces a **hierarchical
 
 1. **Clone the repository**  
    ```sh
-   git clone https://github.com/yourusername/HDFL.git
+   git clone https://github.com/kritika220703/HDFL---Hierarchical-Decentralized-Federated-Learning.git
    cd HDFL
