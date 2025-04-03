@@ -3,8 +3,8 @@
 A novel approach to **Federated Learning (FL)** that introduces a **hierarchical and decentralized** framework to mitigate the **single point of failure** issue in traditional FL architectures. This method improves **scalability, fault tolerance, and computational efficiency** while maintaining strong model performance across distributed clients.  
 
 ## 🚀 Key Features  
-- **Hierarchical Coordination:** A multi-layered approach to federated aggregation, reducing the reliance on a central server.  
-- **Decentralized Communication:** Nodes can collaborate efficiently using a peer-to-peer structure, enhancing system robustness.  
+- **Decentralized Communication:** Nodes can collaborate efficiently using a peer-to-peer structure, enhancing system robustness.
+- **Hierarchical Coordination:** A multi-layered approach to federated aggregation, reducing the reliance on a central server and reducing time consumption as in Decentralized approach.  
 - **Heterogeneous Cluster Representation:** Clusters are dynamically formed to ensure diverse data distributions, improving model generalization. 
 - **Improved Time Complexity:** Optimized aggregation strategies to reduce training time in large-scale deployments.  
 - **Resilience to Failures:** Eliminates the risk of a single point of failure while maintaining performance.  
